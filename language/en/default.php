@@ -26,10 +26,10 @@ return [
     'stripe' => [
         '_text_title' => 'Stripe',
         'text_tab_general' => 'General',
-        'text_payment_title' => 'Stripe Payment',
-        'text_payment_desc' => 'Accept credit card payments using Stripe',
+        'text_payment_title' => 'Stripe Checkout',
+        'text_payment_desc' => 'Accept credit card payments using Stripe Checkout',
 
-        'text_description' => 'Pay by Credit Card using Stripe',
+        'text_description' => 'Pay by Credit Card, Apple Pay, Google Pay using Stripe Checkout',
         'text_live' => 'Live',
         'text_test' => 'Test',
         'text_stripe_charge_description' => '%s Charge for %s',
