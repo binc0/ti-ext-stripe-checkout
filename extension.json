@@ -1,11 +1,11 @@
 {
-  "code": "igniter.stripe-checkout",
+  "code": "binco.stripe-checkout",
   "name": "Stripe Checkout",
   "description": "Allows you to accept credit card payments using Stripe Checkout.",
   "version": "v0.0.1",
-  "author": "Binc0 Fork From SamPoyigi",
+  "author": "Binco",
   "icon": {
-    "class": "fa fa-smile",
+    "class": "fa fa-stripe",
     "backgroundColor": "#ff0000",
     "color": "#1B2707"
   },
