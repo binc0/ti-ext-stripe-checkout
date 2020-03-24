@@ -1,2 +1,2 @@
-# Stripr-
+# Stripre Checkout
 ti-ext-stripe
