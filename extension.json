@@ -1,0 +1,13 @@
+{
+  "code": "igniter.stripe-checkout",
+  "name": "Stripe Checkout",
+  "description": "Allows you to accept credit card payments using Stripe Checkout.",
+  "version": "v0.0.1",
+  "author": "Binc0 Fork From SamPoyigi",
+  "icon": {
+    "class": "fa fa-smile",
+    "backgroundColor": "#ff0000",
+    "color": "#1B2707"
+  },
+  "homepage": "https://github.com/binc0/ti-ext-stripe-checkout"
+}

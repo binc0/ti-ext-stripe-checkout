@@ -1,0 +1,11 @@
+{
+  "name": "igniter/stripe-checkout",
+  "type": "igniter-extension",
+  "keywords": ["tastyigniter", "stripe", "payment", "gateway"],
+  "require": {
+    "php": ">=7.1",
+    "php-http/guzzle6-adapter": "~2.0",
+    "sampoyigi/omnipay-stripe": "~3.2"
+  },
+  "minimum-stability": "dev"
+}
