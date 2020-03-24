@@ -1,2 +1,2 @@
-# Stripre Checkout
+# Stripe Checkout
 ti-ext-stripe
