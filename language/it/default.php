@@ -2,47 +2,46 @@
 
 return [
 
-    'label_order_total' => 'Totale Minimo',
-    'label_order_status' => 'Stato Ordine',
+    'label_order_total' => 'Totale minimo',
+    'label_order_status' => 'Stato ordine',
 
-    'alert_min_total' => 'Order total is below the minimum order total for %s.',
-    'alert_min_order_total' => 'You need to spend %s or more to pay with %s.',
+    'alert_min_total' => 'Il totale dell\'ordine è inferiore al totale minimo dell\'ordine per %s.',
+    'alert_min_order_total' => 'Devi spendere almeno %s per pagare con %s.',
 
-    'help_order_total' => 'The total amount the order must reach before this payment gateway becomes active',
-    'help_order_status' => 'Default order status when this payment method is used.',
+    'help_order_total' => 'L\'importo totale che l\'ordine deve raggiungere prima che questo gateway di pagamento diventi attivo',
+    'help_order_status' => 'Stato predefinito dell\'ordine quando viene utilizzato questo metodo di pagamento.',
 
     'cod' => [
-        '_text_title' => 'Cash On Delivery',
-        'text_tab_general' => 'General',
-        'text_payment_title' => 'Cash On Delivery',
-        'text_payment_desc' => 'Accept cash on delivery during checkout',
+        '_text_title' => 'Contanti alla consegna',
+        'text_tab_general' => 'Generale',
+        'text_payment_title' => 'Contanti alla consegna',
+        'text_payment_desc' => 'Accetta contanti alla consegna durante il checkout',
 
         'label_title' => 'Titolo',
         'label_status' => 'Stato',
         'label_priority' => 'Priorità',
     ],
-
-
+   
     'stripe' => [
         '_text_title' => 'Stripe',
-        'text_tab_general' => 'General',
-        'text_payment_title' => 'Stripe Payment',
-        'text_payment_desc' => 'Accept credit card payments using Stripe',
+        'text_tab_general' => 'Generale',
+        'text_payment_title' => 'Pagamento Stripe',
+        'text_payment_desc' => 'Accetta pagamenti con carta di credito utilizzando Stripe',
 
-        'text_description' => 'Pay by Credit Card using Stripe',
+        'text_description' => 'Paga con carta di credito usando Stripe',
         'text_live' => 'Live',
         'text_test' => 'Test',
-        'text_stripe_charge_description' => '%s Charge for %s',
-        'text_payment_status' => 'Payment %s (%s)',
+        'text_stripe_charge_description' => '%s Addebito per %s',
+        'text_payment_status' => 'Pagamento %s (%s)',
 
-        'label_title' => 'Title',
-        'label_description' => 'Description',
-        'label_transaction_mode' => 'Transaction Mode',
-        'label_test_secret_key' => 'Test Secret Key',
-        'label_test_publishable_key' => 'Test Publishable Key',
-        'label_live_secret_key' => 'Live Secret Key',
-        'label_live_publishable_key' => 'Live Publishable Key',
-        'label_priority' => 'Priority',
-        'label_status' => 'Status',
-    ],
+        'label_title' => 'Titolo',
+        'label_description' => 'Descrizione',
+        'label_transaction_mode' => 'Modalità di transazione',
+        'label_test_secret_key' => 'Chiave segreta di prova',
+        'label_test_publishable_key' => 'Chiave di prova pubblicabile',
+        'label_live_secret_key' => 'Chiave segreta Live',
+        'label_live_publishable_key' => 'Chiave pubblicabile live',
+        'label_priority' => 'Priorità',
+        'label_status' => 'Stato',
+    ],   
 ];
