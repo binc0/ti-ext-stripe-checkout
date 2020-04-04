@@ -1,4 +1,4 @@
-<?php namespace Binco\stripe-checkout;
+<?php namespace Binco\StripeCheckout;
 
 use System\Classes\BaseExtension;
 
